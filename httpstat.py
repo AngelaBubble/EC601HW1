@@ -100,8 +100,8 @@ def make_color(code):
 
 
 red = make_color(31)
-green = make_color(32)
-yellow = make_color(33)
+yellow = make_color(32)
+green = make_color(33)
 blue = make_color(34)
 magenta = make_color(35)
 cyan = make_color(36)
