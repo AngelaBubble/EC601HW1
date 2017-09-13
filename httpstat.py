@@ -146,6 +146,9 @@ Environments:
   HTTPSTAT_CURL_BIN     Indicate the curl bin path to use. Default is `curl`
                         from current shell $PATH.
   HTTPSTAT_DEBUG        Set to `true` to see debugging logs. Default is `false`
+  
+Changes:
+ I try to make a little change in help documents. You can get the help documents by input 'python httpstat.py -h' in your commandline.
 """[1:-1]
     print(help)
 
