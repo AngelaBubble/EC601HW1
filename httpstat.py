@@ -85,6 +85,7 @@ https_template = """
 #                                                                 total:{b0004}
 #"""[1:]
 
+#new template
 http_template = """
     DNS Lookup  :       {a0000}
                                     namelookup :    {b0000}
