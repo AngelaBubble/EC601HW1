@@ -7,6 +7,7 @@
 # http://blog.kenweiner.com/2014/11/http-request-timings-with-curl.html
 
 # here is a little change by grace. if you can see it, I succeed in pulling.
+#A few changes for the colors used in the display and the underline and bold functions by Shachi Khadilkar.
 
 from __future__ import print_function
 
@@ -98,6 +99,7 @@ def make_color(code):
         return tpl.format(code, s)
     return color_func
 
+#changes to colors
 
 orange = make_color(31)
 yellow = make_color(32)
